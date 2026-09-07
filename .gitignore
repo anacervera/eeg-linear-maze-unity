@@ -1,0 +1,74 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Memory captures
+[Mm]emoryCaptures/
+
+# Asset Store tools
+[Aa]ssets/AssetStoreTools*
+
+# IDE / editor files
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Crash reports
+sysinfo.txt
+
+# Unity temporary files
+*.tmp
+*.bak
+*.swp
+
+# Third-party / licensing not verified
+# Kept locally for historical reconstruction, not redistributed publicly.
+Assets/Audio/
+Assets/Audio.meta
+Assets/ADG_Textures/
+Assets/ADG_Textures.meta
+Assets/Classic Acoustic Guitar/
+Assets/Classic Acoustic Guitar.meta
+Assets/Floor materials pack/
+Assets/Floor materials pack.meta
+Assets/InstrumentsHD_vol1/
+Assets/InstrumentsHD_vol1.meta
+Assets/JJ_InteriorDoorPack_V1/
+Assets/JJ_InteriorDoorPack_V1.meta
+Assets/LowPolyAfricanInstruments/
+Assets/LowPolyAfricanInstruments.meta
+Assets/Procedural_Materials/
+Assets/Procedural_Materials.meta
+Assets/Rockstar Asset Pack/
+Assets/Rockstar Asset Pack.meta
+Assets/SampleScenes/
+Assets/SampleScenes.meta
+Assets/Shapes2D/
+Assets/Shapes2D.meta
+Assets/Standard Assets/
+Assets/Standard Assets.meta
+
+# Shapes2D generated/runtime resources
+Assets/Resources/Shapes2D Sprites/
+Assets/Resources/Shapes2D Sprites.meta
