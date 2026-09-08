@@ -122,3 +122,16 @@ MCIN/AEI/10.13039/501100011033/ and FEDER funds, EU
        width="900">
 </p>
 
+## Authors and contributions
+
+**Ana Cervera Ferri**  
+Department of Human Anatomy and Embryology, Universitat de València  
+ORCID: https://orcid.org/0000-0002-2300-5571  
+
+Contributions: Conceptualization, Methodology, Software, Investigation, Visualization, Documentation.
+
+**Ana Lloret**  
+Department of Physiology, Universitat de València  
+ORCID: https://orcid.org/0000-0003-0266-0304  
+
+Contributions: Conceptualization, Methodology, Supervision, Funding acquisition.
