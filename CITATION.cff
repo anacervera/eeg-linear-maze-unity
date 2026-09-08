@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or experimental paradigm in your research, please cite it using the metadata below."
+
+title: "Unity linear-maze EEG paradigm"
+type: software
+
+authors:
+  - family-names: "Cervera Ferri"
+    given-names: "Ana"
+    orcid: "https://orcid.org/0000-0002-2300-5571"
+    affiliation: "Universitat de València"
+
+repository-code: "https://github.com/anacervera/eeg-linear-maze-unity"
+
+abstract: >
+  Unity-based visuospatial audiovisual experimental paradigm developed
+  for EEG research. The paradigm combines repeated first-person traversal
+  through three spatial contexts with audiovisual instrument associations
+  and a subsequent visual recognition test. During the third traversal,
+  the instrument associated with the second spatial context changes,
+  introducing a violation of the previously established context-stimulus
+  association.
+
+keywords:
+  - EEG
+  - cognitive neuroscience
+  - visuospatial processing
+  - audiovisual association
+  - experimental paradigm
+  - Unity
+  - recognition memory
