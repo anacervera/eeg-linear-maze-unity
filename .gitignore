@@ -72,3 +72,7 @@ Assets/Standard Assets.meta
 # Shapes2D generated/runtime resources
 Assets/Resources/Shapes2D Sprites/
 Assets/Resources/Shapes2D Sprites.meta
+
+# R local files
+.Rhistory
+.RData
